@@ -3,7 +3,7 @@ In this repo you can see my CS50 problem sets running at the command line. No so
 
 Problem Set 1: 
 <p>
-<svg width="100%" src="https://github.com/mzrithm/cs50_public/blob/main/mario.svg">
+<img width="100%" src="https://github.com/mzrithm/cs50_public/blob/main/mario.svg">
 </p>
 
   
