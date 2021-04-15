@@ -10,6 +10,6 @@ In Mario for less comfortable students, I was asked to create a pyramid in C usi
 <br>
 <br>
 <p>
-<img width="100%" src="https://github.com/mzrithm/cs50_public/blob/main/mario.svg">
+<img width="100%" src="https://github.com/mzrithm/cs50_public/blob/main/mariomore.svg">
 </p>  
 In Mario for more comfortable students, I was asked to create adjacent pyramids in C using hashes (#) for bricks. The user should decide the height of the two pyramids, between 1 and 8 bricks high inclusive. The gap between the two pyramids should be equal to the width of two hashes. And I should evaluate the correctness of my code using check50.
