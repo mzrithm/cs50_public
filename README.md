@@ -6,8 +6,9 @@ There were two versions of this problem set available to students. One version w
 <p>
 <img width="100%" src="https://github.com/mzrithm/cs50_public/blob/main/mario.svg">
 </p>  
-cs50/pset1/mario/less^
+cs50/pset1/mario/less^ <br>
 Create a pyramid in C using hashes (#) for bricks. The user should decide the height of the pyramid, between 1 and 8 bricks high inclusive. Evaluate the correctness of your code using check50.
+<br>
 <p>
 <img width="100%" src="https://github.com/mzrithm/cs50_public/blob/main/mario.svg">
 </p>  
