@@ -6,10 +6,10 @@ There were two versions of this problem set available to students. One version w
 <p>
 <img width="100%" src="https://github.com/mzrithm/cs50_public/blob/main/mario.svg">
 </p>  
-In Mario/less, we were asked to create a pyramid in C using hashes (#) for bricks. The user should decide the height of the pyramid, between 1 and 8 bricks high inclusive. Evaluate the correctness of your code using check50.
+In Mario for less comfortable students, we were asked to create a pyramid in C using hashes (#) for bricks. The user should decide the height of the pyramid, between 1 and 8 bricks high inclusive. Evaluate the correctness of your code using check50.
 <br>
 <br>
 <p>
 <img width="100%" src="https://github.com/mzrithm/cs50_public/blob/main/mario.svg">
 </p>  
-In Mario/more, we were asked to create adjacent pyramids in C using hashes (#) for bricks. The user should decide the height of the two pyramids, between 1 and 8 bricks high inclusive. The gap between the two pyramids should be equal to the width of two hashes. Evaluate the correctness of your code using check50.
+In Mario for more students, we were asked to create adjacent pyramids in C using hashes (#) for bricks. The user should decide the height of the two pyramids, between 1 and 8 bricks high inclusive. The gap between the two pyramids should be equal to the width of two hashes. Evaluate the correctness of your code using check50.
