@@ -1,5 +1,5 @@
 # cs50_public
-In this repo you can see my CS50 problem sets running at the command line. No source code. :)
+In this repo you can see my CS50 problem sets running at the command line. Due to the course's policies on academic honesty, I am keeping all the source code for these exercises in a private CS50 repo. Below you will find the first problem set, and I plan on producing a similar markdown file for each problem set completed in the course that can be displayed in this fashion.
 
 <strong>Problem Set 1:</strong> 
 There were two versions of this problem set available to students. One version was intended for students who felt more comfortable programming, and the other was for students who felt less comfortable programming. I completed both problems sets, which amounted to 4 different exercises in C.
