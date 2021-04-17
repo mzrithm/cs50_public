@@ -3,7 +3,7 @@ In this repo you can see my CS50 problem sets running at the command line. Due t
 
 <strong>Problem Set 1:</strong> 
 There were two versions of this problem set available to students. One version was intended for students who felt more comfortable programming, and the other was for students who felt less comfortable programming. I completed both problems sets, which amounted to 4 different exercises in C.
-<strong>mario/less :</strong>
+<br><strong>mario/less :</strong>
 <p>
 <img width="100%" src="https://github.com/mzrithm/cs50_public/blob/main/marioless.svg">
 </p>  
